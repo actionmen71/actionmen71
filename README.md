@@ -21,7 +21,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/kIUNwdOPkjeM4nEmk7/giphy.gif?cid=ecf05e47m4fe6xhmrq1q9yxb44su6mn87slzyelmttoevgtk&ep=v1_gifs_search&rid=giphy.gif&ct=gf" width="800" height="400"/>
 </div>
 
 
@@ -47,6 +47,8 @@
 
 - 📫 How to reach me ➡️ **KrishnaShankar3822@gmail.com**
 
+- 📄 Want to read my blogs/articles ➡️ [Click here!](https://www.linkedin.com/in/krishna-shankar-425332156/recent-activity/articles/)
+
 
 
 <hr>
@@ -66,13 +68,12 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
+### Connect with me
 
  <hr>
-<p align = "center">
+<p align="center">
 
- <a href="https://www.linkedin.com/in/krishna-shankar-425332156/"><img align="center"   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd6eXFwdWtzNGJvcWZ1a2N5NHU3bWp4cTUwODE3MDFqcW1tNnQ1cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif"   alt="image1" height="50" width="60"/></a>
+ <a href="https://www.linkedin.com/in/krishna-shankar-425332156/"><img    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd6eXFwdWtzNGJvcWZ1a2N5NHU3bWp4cTUwODE3MDFqcW1tNnQ1cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif"   alt="image1" height="50" width="60"/></a>
 
-<a href="https://www.hackerrank.com" target="blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="image2" height="50" width="60" /></a>
 
 </p>
