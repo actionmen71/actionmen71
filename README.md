@@ -12,7 +12,8 @@
   
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=actionmen71&color=brightgreen" alt = ""/>
+### VISITORS COUNT
+![Visitor Count](https://profile-counter.glitch.me/{actionmen71}/count.svg)  
 
 
 <h1>
